@@ -38,6 +38,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
  
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 
+
 ## OUTPUT:
 
 ![WhatsApp Image 2024-10-22 at 22 02 31_c6d99c58](https://github.com/user-attachments/assets/6447ad75-6ec8-4506-b1be-d93053f069d6)
@@ -46,10 +47,13 @@ In Kali issue the following commands:
 sudo dsnifff
 
 ## OUTPUT:
+![WhatsApp Image 2024-10-23 at 09 09 18_81406d8d](https://github.com/user-attachments/assets/39f2d3cf-49c3-4fef-8108-b24dccd14cdb)
 
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+
+![WhatsApp Image 2024-10-23 at 09 43 39_3f610af3](https://github.com/user-attachments/assets/ce7f3679-eff5-4c40-8819-c61cae89dacb)
 
 
 ## Ettercap
